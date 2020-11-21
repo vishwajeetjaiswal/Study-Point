@@ -1,0 +1,160 @@
+  body
+{
+	background-size:100%;
+	background-color:rgb(225, 236, 238);
+	font-family: Helvetica, sans-serif;
+	margin: 0%;
+	box-sizing: border-box;
+}
+
+h1
+{
+	font-family: cursive;  
+	background-color:rgba(0,0,0,0.5);
+	padding:25px;
+	font-size:30px;
+}	
+
+.hvr
+{
+	letter-spacing:1px;
+	text-decoration:none;
+	color:white;
+}
+
+.hvr:hover
+{
+	transition:all 0.1s;
+	background-color:#6b5;
+	padding: 0.6em;
+  padding-top: 0.6em;
+  padding-right: 0.6em;
+  padding-bottom: 0.6em;
+  padding-left: 0.6em;
+}	
+
+h3
+{
+	background-color:#4CAF50;
+	padding: .8em;
+	font-size: 17px;
+	
+}
+
+#course
+{
+  border-radius: 5px;
+  margin-top:10px;
+  margin-left:30px;
+  margin-right:30px;
+  padding-top:30px;
+  padding-bottom:160px;
+  background-color: rgb(208, 226, 226);
+}
+
+.content
+{
+  text-align: center;
+  border-radius: 5px;
+  margin-left:30px;
+}
+
+h4
+{
+  margin-bottom: 90px;
+  margin-right:30px;
+  margin-left:0px;
+  padding:20px;
+  padding-left:20px;
+  background-color: rgb(131, 204, 228)
+}
+
+.button 
+{
+  
+  border-radius: 5px;
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 30px 46px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 12px 12px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 
+{
+  margin-right:100px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+  
+}
+
+.button1:hover 
+{
+   background-color: #4CAF50;
+  color: white;
+}
+
+.button2 
+{
+  margin-right:100px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #008CBA;
+}
+
+.button2:hover
+{
+  background-color: #008CBA;
+  color: white;
+}
+
+.button3 
+{
+  margin-right:100px;
+  padding-left:40px;
+  padding-right:40px;
+  background-color: white; 
+  color: black; 
+  border: 2px solid #eba39d;
+}
+
+.button3:hover 
+{
+  background-color: #eba39d;
+  color: white;
+}
+
+.button4 
+{
+  margin-right:100px;
+  background-color: rgb(184, 170, 170);
+  color: black;
+  border: 2px solid #e7e7e7;
+}
+
+.button4:hover 
+{
+  background-color: #e7e7e7;
+}
+
+.button5 
+{
+  margin-right:100px;
+  background-color: white;
+  color: black;
+  border: 2px solid #555555;
+}
+
+.button5:hover 
+{
+  background-color: #555555;
+  color: white;
+}
